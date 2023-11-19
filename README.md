@@ -13,8 +13,15 @@ $ npm install
 ```bash
 $ npm run start
 ```
-
 ## Rotas
+
+
+## Swagger API 
+Para realizar as Requisições de forma mais simples, foi adicionado suporte ao Swagger.
+http://localhost:3000/api
+
+
+
 ## Alunos
 Para criar um Aluno
 
