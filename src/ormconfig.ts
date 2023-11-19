@@ -7,7 +7,7 @@ export const config: DataSourceOptions = {
     username: 'root',
     password: '1236',
     database: 'testbackend',
-    synchronize: false,
+    synchronize: true,
     logging: true,
     entities: [__dirname + '/**/*.entity{.ts,.js}']
 }
